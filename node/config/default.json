@@ -1,6 +1,6 @@
 {
-    "appSecret": "1943403699234458",
+    "appSecret": "42a0a08b5e2489fe994c58603ecc06c8",
     "pageAccessToken": "EAADZCmZBxFgkEBAGItk3iQo0Qd6CRsffAuKonEFVcRiy57l58DCUjxeJyEj2pQ0ab252liZAXxxxrsBrwvje634337ZBAOADL4FjshZCOhP4NjlRqkG0KTtizJtCZB93nfUgvFiGjgPdWQlHXghphviyJCeXB1MYqZAiV1ZBEj2LQQZDZD",
     "validationToken": "hello_world_this_is_my_first_bot",
-    "serverURL": "https://simplace-159617.appspot.com"
+    "serverURL": "https://simplace-159617.appspot.com/webhook"
 }
